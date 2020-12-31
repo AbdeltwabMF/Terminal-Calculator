@@ -6,10 +6,10 @@ This exercise is very helpful to get familiar with Java basics (classes, methods
 ---
 
 ### Terminal Screenshots:
-<p align="center">
-  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.PNG">
-<p align="center">
-  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/2.PNG">
+
+![1]("https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.png")
+---
+![2]("https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.png")
 
 ---
 

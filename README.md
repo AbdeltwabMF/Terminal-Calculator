@@ -1,4 +1,5 @@
-#Terminal-Calculator
+
+# Terminal-Calculator
 
 This is The First college Homework that asks for implementing a Simple Scientific Calculator on JAVA, a simple implementation that runs on a console. 
 This exercise is very helpful to get familiar with Java basics (classes, methods, input/output, arrays, etc.)

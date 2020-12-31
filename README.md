@@ -7,9 +7,9 @@ This exercise is very helpful to get familiar with Java basics (classes, methods
 
 ### Terminal Screenshots:
 
-![1]("https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.png")
+![1](./screenshots/1.png)
 ---
-![2]("https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.png")
+![2](./screenshots/2.png)
 
 ---
 

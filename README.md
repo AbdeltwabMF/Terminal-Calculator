@@ -7,9 +7,9 @@ This exercise is very helpful to get familiar with Java basics (classes, methods
 
 ### Terminal Screenshots:
 <p align="center">
-  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/tree/main/screenshots/1.png">
+  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/1.PNG">
 <p align="center">
-  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/tree/main/screenshots/2.png">
+  <img  src="https://github.com/AbdeltwabMF/Terminal-Calculator/screenshots/2.PNG">
 
 ---
 
